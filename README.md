@@ -175,3 +175,4 @@ The contract is upgradeable using **UUPSUpgradeable**. Upgrades are restricted t
 # Author
 
 ###  [ArefXV](https://linktr.ee/arefxv)# stakedrop
+# stakedrop
