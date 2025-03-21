@@ -4,7 +4,7 @@
 
 **StakeDropV1** is a staking protocol that allows users to stake **ETH** and **StakeDropToken (SDT)** tokens with various lock-up periods. Users earn rewards based on their stake duration, with options for early unstaking (subject to penalties). The protocol includes an airdrop mechanism for distributing SDT tokens to randomly selected stakers, ensuring secure and fair distribution using standards like **ECDSA**, **Merkle Tree**, and **EIP712**.
 
-This contract is **upgradeable**, using the **UUPS (Universal Upgradeable Proxy Standard)**.
+This contract is **upgradeable**, using the **UUPS (Universal Upgradeable Proxy Standard)**
 
 ---
 
